@@ -1,0 +1,17 @@
+*{
+    background-color: #000000;
+    color:#FAFAFA;
+}
+#time{
+    position: relative;
+    top:40%;
+    left: 33%;
+    font-size: 1000%;
+    font-family: 'Roboto Mono', monospace;
+}
+/*#line{
+    border-left: 5px solid green;
+    height: 900px;
+    position: absolute;
+    left: 50%;
+}*/
